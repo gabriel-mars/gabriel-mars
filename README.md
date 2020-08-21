@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-mars" alt="gabriel-mars" /> </p>
+
+
 ![Ultimamente](https://github-readme-stats.vercel.app/api?username=gabriel-mars&show_icons=true&theme=dark&hide=contribs) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mars&layout=compact&theme=dark)
 
 ### Ferramentas 🛠️
