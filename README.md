@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ultimamente](https://github-readme-stats.vercel.app/api?username=gabriel-mars) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mars)
+![Ultimamente](https://github-readme-stats.vercel.app/api?username=gabriel-mars) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mars&layout=compact&show_icons=true&theme=radical)
 
 ### Ferramentas 🛠️
 
