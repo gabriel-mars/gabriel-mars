@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
@@ -46,7 +46,13 @@ Here are some ideas to get you started:
 - Você pode me encontrar em um desses links
 
 <p align="center">
-<a href="https://linkedin.com/in/gabriel-martins-68a235a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-martins-68a235a8" height="30" width="30" /></a>
-<a href="https://fb.com/gabriel.dasilva.982" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabriel.dasilva.982" height="30" width="30" /></a>
-<a href="https://instagram.com/gah.martins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gah.martins" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/gabriel-martins-68a235a8" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gabriel-martins-68a235a8" height="30" width="30" />
+  </a>
+  <a href="https://fb.com/gabriel.dasilva.982" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="gabriel.dasilva.982" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/gah.martins" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="gah.martins" height="30" width="30" />
+  </a>
 </p>
